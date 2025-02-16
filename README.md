@@ -76,7 +76,3 @@ Ambas as ferramentas foram essenciais para o desenvolvimento e organização do 
 ## 🍃 Autor
 - Feito com ❤️ por Vanessa Matias.
 
----
-
-## 📜 Licença
-- Este projeto está licenciado sob a MIT License.
