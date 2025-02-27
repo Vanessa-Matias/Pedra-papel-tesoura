@@ -1,7 +1,7 @@
 # 🎮 Pedra, Papel e Tesoura
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9bf27c18-76de-4980-b915-9a76b63ae74c" alt="Descrição da imagem">
+  <img src="https://github.com/user-attachments/assets/2bb009ee-e6f1-49a7-80e1-9c71ac487ad5" alt="Descrição da imagem">
 </p>
 
 Um jogo clássico de **Pedra, Papel e Tesoura** desenvolvido em Python, com interações divertidas, emojis e um design colorido no terminal. O jogador compete contra o computador em uma batalha emocionante de escolhas estratégicas!
